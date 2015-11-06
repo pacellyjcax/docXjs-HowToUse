@@ -1,0 +1,23 @@
+{
+  "name": "docXjs-HowToUse",
+  "homepage": "https://github.com/pacellyjcax/docXjs-HowToUse",
+  "authors": [
+    "PacellyJCAX <pacellyjcax@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jszip-utils": "Stuk/jszip-utils#~0.0.2",
+    "jszip": "Stuk/jszip#~2.5.0",
+    "DOCX.js": "PinZhang/DOCX.js"
+  }
+}
